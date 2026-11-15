@@ -1,0 +1,3 @@
+Registration: TN01AB1111
+Type: CAR
+Candidate classes: Vehicle, ParkingSlot, ParkingTicket, ParkingFacility
